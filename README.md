@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 I’m a Java Full Stack Developer who enjoys turning ideas into clean, scalable web applications using Java, Spring Boot, React, and MySQL. I like working on both backend logic and frontend flow, especially when everything connects smoothly and just works.<br><br>🔭 Currently working on: Building Java & Spring Boot projects and improving backend APIs<br>🤝 Looking to collaborate on: Backend or full-stack projects where I can learn, contribute, and grow<br>🌱 Currently learning: Microservices, Docker, Kafka, and AWS to build more scalable systems<br>💬 Ask me about: Java, Spring Boot, REST APIs, React, or how to structure real-world projects<br>⚡ Fun fact: I actually enjoy debugging backend issues and feel satisfied when a complex problem finally clicks
 
 
