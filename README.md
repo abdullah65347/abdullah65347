@@ -1,84 +1,78 @@
-# Hi there, I'm Abdullah Farooqi 👋
+# 👨‍💻 Abdullah Farooqi
 
 ### Java Full Stack Developer | Spring Boot | React | Microservices
 
-Working as a Software Developer Intern at Infosys with hands-on experience in building scalable full-stack applications using Java, Spring Boot, React, and MySQL. I enjoy creating clean backend architectures, designing responsive frontend interfaces, and solving real-world development problems through practical projects.
+Working as a Software Developer Intern at Infosys with hands-on experience in building scalable full-stack web applications using Java, Spring Boot, React, and MySQL.
 
 ---
 
-## 🚀 About Me
+# ✨ About Me
 
-- 🔭 Currently building full-stack Java & Spring Boot applications
-- 🌱 Learning Microservices, Docker, Kafka, and AWS
-- 💡 Interested in scalable backend systems and modern web architectures
-- 🤝 Open to collaborating on backend and full-stack projects
-- 💬 Ask me about Java, Spring Boot, REST APIs, React, JWT, and project structure
-- ⚡ I genuinely enjoy debugging and optimizing backend logic
+I’m a Java Full Stack Developer who enjoys turning ideas into clean and scalable web applications.  
+I like working on both backend logic and frontend flow — especially when everything connects smoothly and works efficiently.
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah65347/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah65347@gmail.com)
+- 🔭 Currently working on: Java & Spring Boot projects and improving backend APIs  
+- 🤝 Looking to collaborate on: Backend and full-stack development projects  
+- 🌱 Currently learning: Microservices, Docker, Kafka, and AWS  
+- 💬 Ask me about: Java, Spring Boot, REST APIs, React, and project architecture  
+- ⚡ Fun fact: I genuinely enjoy debugging backend issues and solving complex problems  
 
 ---
 
-# 💻 Tech Stack
+# 🌐 Connect With Me
 
-### 🚀 Backend Development
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah65347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:abdullah65347@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚒️ Tech Stack
+
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🗄️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 📚 Currently Exploring
 
-### 🏨 Hotel Booking System
-Full-stack hotel booking platform with JWT authentication, role-based access, and secure booking management using Spring Boot and React.
-
-### 🚗 Car Rental System
-Role-based car rental application with Admin, Owner, and User modules built using Spring Boot, React, and MySQL.
-
-### 📦 Inventory Management System
-Modern inventory management platform for managing products, suppliers, sales, purchases, and stock transactions efficiently.
+- Microservices Architecture  
+- Kafka Event Streaming  
+- Docker & Containerization  
+- AWS Cloud Services  
+- System Design Basics  
 
 ---
 
-## 📈 Currently Focused On
-
-- Building scalable backend systems
-- Improving system design knowledge
-- Learning distributed architecture concepts
-- Writing cleaner and more maintainable code
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-</div>
+<p align="center">
+  <i>Building scalable applications and continuously improving as a developer.</i>
+</p>
